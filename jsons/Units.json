@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Worker",
+	"unitType": "Civilian",
+	"movement": 2,
+	"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"
+	  "Can transform to [Village Muster] <in [Friendly Land] tiles> <during the [Ancient era]>"
+      "Can transform to [Plebeian] <in [Friendly Land] tiles> <during the [Classical era]>"
+      "Can transform to [Rabble] <in [Friendly Land] tiles> <during the [Medieval era]>"
+      "Can transform to [Levy] <in [Friendly Land] tiles> <during the [Renaissance era]>"
+      "Can transform to [Militia] <in [Friendly Land] tiles> <during the [Industrial era]>"
+      "Can transform to [Reservist] <in [Friendly Land] tiles> <during the [Modern era]>"
+      "Can transform to [Conscript] <in [Friendly Land] tiles> <during the [Atomic era]>"
+      "Can transform to [National Guard] <in [Friendly Land] tiles> <during the [Information era]>"
+      "Can transform to [Border Warden] <in [Friendly Land] tiles> <during the [Future era]>"],
+	"replacementTextForUniques": "Can transform to a mediocre militia fighting unit inside friendly land\nMilitia units lose fighting morale and HP while outside friendly land\nA new militia unit is available in each era",
+	"cost": 70
+  },
+  {
+    "name": "Village Muster",
+    "unitType": "Militia",
+    "range": 1,
+    "movement": 2,
+    "strength": 5,
+    "rangedStrength": 2,
+    "cost": 70,
+    "uniques": ["Can transform to [Worker] <in [Friendly Land] tiles>",
+	  "Unbuildable",
+	  "Never appears as a Barbarian unit",
+	  "[-20]% Strength <when fighting in [Foreign Land] tiles>",
+	  "Heal this unit by [-60] HP <upon ending a turn in a [Foreign Land] tile>"],
+    "attackSound": "throw"
+  },
+  {
+    "name": "Plebeian",
+    "unitType": "Militia",
+    "movement": 2,
+    "strength": 8,
+    "cost": 70,
+    "uniques": ["Can transform to [Worker] <in [Friendly Land] tiles>",
+	  "Unbuildable",
+	  "Never appears as a Barbarian unit",
+	  "[-20]% Strength <when fighting in [Foreign Land] tiles>",
+	  "Heal this unit by [-60] HP <upon ending a turn in a [Foreign Land] tile>"],
+    "attackSound": "nonmetalhit"
+  },
+  {
+    "name": "Rabble",
+    "unitType": "Militia",
+    "movement": 2,
+    "strength": 11,
+    "cost": 70,
+    "uniques": ["Can transform to [Worker] <in [Friendly Land] tiles>",
+	  "Unbuildable",
+	  "Never appears as a Barbarian unit",
+	  "[-20]% Strength <when fighting in [Foreign Land] tiles>",
+	  "Heal this unit by [-60] HP <upon ending a turn in a [Foreign Land] tile>"],
+    "attackSound": "metalhit"
+  },
+  {
+    "name": "Levy",
+    "unitType": "Militia",
+    "movement": 2,
+    "strength": 15,
+    "cost": 70,
+    "uniques": ["Can transform to [Worker] <in [Friendly Land] tiles>",
+	  "Unbuildable",
+	  "Never appears as a Barbarian unit",
+	  "[-20]% Strength <when fighting in [Foreign Land] tiles>",
+	  "Heal this unit by [-60] HP <upon ending a turn in a [Foreign Land] tile>"],
+    "attackSound": "metalhit"
+  },
+  {
+    "name": "Militia",
+    "unitType": "Militia",
+    "range": 1,
+    "movement": 2,
+    "strength": 20,
+    "rangedStrength": 4,
+    "cost": 70,
+    "uniques": ["Can transform to [Worker] <in [Friendly Land] tiles>",
+	  "Unbuildable",
+	  "Never appears as a Barbarian unit",
+	  "[-20]% Strength <when fighting in [Foreign Land] tiles>",
+	  "Heal this unit by [-60] HP <upon ending a turn in a [Foreign Land] tile>"],
+    "attackSound": "shot"
+  },
+  {
+    "name": "Reservist",
+    "unitType": "Militia",
+    "range": 1,
+    "movement": 2,
+    "strength": 26,
+    "rangedStrength": 4,
+    "cost": 70,
+    "uniques": ["Can transform to [Worker] <in [Friendly Land] tiles>",
+	  "Unbuildable",
+	  "Never appears as a Barbarian unit",
+	  "[-20]% Strength <when fighting in [Foreign Land] tiles>",
+	  "Heal this unit by [-60] HP <upon ending a turn in a [Foreign Land] tile>"],
+    "attackSound": "shot"
+  },
+  {
+    "name": "Conscript",
+    "unitType": "Militia",
+    "movement": 2,
+    "strength": 33,
+    "cost": 70,
+    "uniques": ["Can transform to [Worker] <in [Friendly Land] tiles>",
+	  "Unbuildable",
+	  "Never appears as a Barbarian unit",
+	  "[-20]% Strength <when fighting in [Foreign Land] tiles>",
+	  "Heal this unit by [-60] HP <upon ending a turn in a [Foreign Land] tile>"],
+    "attackSound": "shot"
+  },
+  {
+    "name": "National Guard",
+    "unitType": "Militia",
+    "movement": 2,
+    "strength": 41,
+    "cost": 70,
+    "uniques": ["Can transform to [Worker] <in [Friendly Land] tiles>",
+	  "Unbuildable",
+	  "Never appears as a Barbarian unit",
+	  "[-20]% Strength <when fighting in [Foreign Land] tiles>",
+	  "Heal this unit by [-60] HP <upon ending a turn in a [Foreign Land] tile>"],
+    "attackSound": "shot"
+  },
+  {
+    "name": "Border Warden",
+    "unitType": "Militia",
+    "movement": 2,
+    "strength": 50,
+    "cost": 70,
+    "uniques": ["Can transform to [Worker] <in [Friendly Land] tiles>",
+	  "Unbuildable",
+	  "Never appears as a Barbarian unit",
+	  "[-20]% Strength <when fighting in [Foreign Land] tiles>",
+	  "Heal this unit by [-60] HP <upon ending a turn in a [Foreign Land] tile>"],
+    "attackSound": "shot"
+  }
+]
