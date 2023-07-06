@@ -13,7 +13,7 @@
           "Can transform to [Conscript] <in [Friendly Land] tiles> <during the [Atomic era]>",
           "Can transform to [National Guard] <in [Friendly Land] tiles> <during the [Information era]>",
           "Can transform to [Border Warden] <in [Friendly Land] tiles> <during the [Future era]>"],
-	"replacementTextForUniques": "Can transform to a mediocre militia fighting unit inside friendly land\nMilitia units lose fighting morale and HP while outside friendly land\nA new militia unit is available in each era",
+	"replacementTextForUniques": "Can transform to militia fighting unit inside friendly land\nMilitia are weaker than same-era units. They lose fighting morale and HP while outside friendly land\nA new militia unit is available in each era",
 	"cost": 70
   },
   {
@@ -28,7 +28,7 @@
 	  "Unbuildable",
 	  "Never appears as a Barbarian unit",
 	  "[-20]% Strength <when fighting in [Foreign Land] tiles>",
-	  "Heal this unit by [-60] HP <upon ending a turn in a [Foreign Land] tile>"],
+	  "Heal this unit by [-2] HP <upon ending a turn in a [Foreign Land] tile>"],
     "attackSound": "throw"
   },
   {
@@ -41,7 +41,7 @@
 	  "Unbuildable",
 	  "Never appears as a Barbarian unit",
 	  "[-20]% Strength <when fighting in [Foreign Land] tiles>",
-	  "Heal this unit by [-60] HP <upon ending a turn in a [Foreign Land] tile>"],
+	  "Heal this unit by [-2] HP <upon ending a turn in a [Foreign Land] tile>"],
     "attackSound": "nonmetalhit"
   },
   {
@@ -54,7 +54,7 @@
 	  "Unbuildable",
 	  "Never appears as a Barbarian unit",
 	  "[-20]% Strength <when fighting in [Foreign Land] tiles>",
-	  "Heal this unit by [-60] HP <upon ending a turn in a [Foreign Land] tile>"],
+	  "Heal this unit by [-2] HP <upon ending a turn in a [Foreign Land] tile>"],
     "attackSound": "metalhit"
   },
   {
@@ -67,7 +67,7 @@
 	  "Unbuildable",
 	  "Never appears as a Barbarian unit",
 	  "[-20]% Strength <when fighting in [Foreign Land] tiles>",
-	  "Heal this unit by [-60] HP <upon ending a turn in a [Foreign Land] tile>"],
+	  "Heal this unit by [-2] HP <upon ending a turn in a [Foreign Land] tile>"],
     "attackSound": "metalhit"
   },
   {
@@ -80,7 +80,7 @@
 	  "Unbuildable",
 	  "Never appears as a Barbarian unit",
 	  "[-20]% Strength <when fighting in [Foreign Land] tiles>",
-	  "Heal this unit by [-60] HP <upon ending a turn in a [Foreign Land] tile>"],
+	  "Heal this unit by [-2] HP <upon ending a turn in a [Foreign Land] tile>"],
     "attackSound": "shot"
   },
   {
@@ -93,7 +93,7 @@
 	  "Unbuildable",
 	  "Never appears as a Barbarian unit",
 	  "[-20]% Strength <when fighting in [Foreign Land] tiles>",
-	  "Heal this unit by [-60] HP <upon ending a turn in a [Foreign Land] tile>"],
+	  "Heal this unit by [-2] HP <upon ending a turn in a [Foreign Land] tile>"],
     "attackSound": "shot"
   },
   {
@@ -106,7 +106,7 @@
 	  "Unbuildable",
 	  "Never appears as a Barbarian unit",
 	  "[-20]% Strength <when fighting in [Foreign Land] tiles>",
-	  "Heal this unit by [-60] HP <upon ending a turn in a [Foreign Land] tile>"],
+	  "Heal this unit by [-2] HP <upon ending a turn in a [Foreign Land] tile>"],
     "attackSound": "shot"
   },
   {
@@ -119,7 +119,7 @@
 	  "Unbuildable",
 	  "Never appears as a Barbarian unit",
 	  "[-20]% Strength <when fighting in [Foreign Land] tiles>",
-	  "Heal this unit by [-60] HP <upon ending a turn in a [Foreign Land] tile>"],
+	  "Heal this unit by [-2] HP <upon ending a turn in a [Foreign Land] tile>"],
     "attackSound": "shot"
   },
   {
@@ -132,7 +132,7 @@
 	  "Unbuildable",
 	  "Never appears as a Barbarian unit",
 	  "[-20]% Strength <when fighting in [Foreign Land] tiles>",
-	  "Heal this unit by [-60] HP <upon ending a turn in a [Foreign Land] tile>"],
+	  "Heal this unit by [-2] HP <upon ending a turn in a [Foreign Land] tile>"],
     "attackSound": "shot"
   }
 ]
