@@ -13,7 +13,7 @@
           "Can transform to [Conscript] <in [Friendly Land] tiles> <during the [Atomic era]>",
           "Can transform to [National Guard] <in [Friendly Land] tiles> <during the [Information era]>",
           "Can transform to [Border Warden] <in [Friendly Land] tiles> <during the [Future era]>"],
-	"replacementTextForUniques": "Can transform to militia fighting unit inside friendly land\nMilitia are weaker than same-era units. They lose fighting morale and HP while outside friendly land\nA new militia unit is available in each era",
+	"replacementTextForUniques": "Can transform to a militia fighting unit inside friendly land\nMilitia units lose fighting morale and HP while outside friendly land\nA new militia unit is available in each Era and are weaker than other same-Era units",
 	"cost": 70
   },
   {
