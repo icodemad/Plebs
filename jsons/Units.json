@@ -73,10 +73,8 @@
   {
     "name": "Militia",
     "unitType": "Militia",
-    "range": 1,
     "movement": 2,
     "strength": 20,
-    "rangedStrength": 4,
     "cost": 70,
     "uniques": ["Can transform to [Worker] <in [Friendly Land] tiles>",
 	  "Unbuildable",
@@ -88,10 +86,8 @@
   {
     "name": "Reservist",
     "unitType": "Militia",
-    "range": 1,
     "movement": 2,
     "strength": 26,
-    "rangedStrength": 4,
     "cost": 70,
     "uniques": ["Can transform to [Worker] <in [Friendly Land] tiles>",
 	  "Unbuildable",
