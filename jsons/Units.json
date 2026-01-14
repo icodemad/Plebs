@@ -23,7 +23,7 @@
     "movement": 2,
     "strength": 5,
     "rangedStrength": 2,
-    "Uniques": ["Unbuildable", "Cannot be purchased", "Can transform to [Worker] <in [Friendly Land] tiles>", "Never appears as a Barbarian unit", "[-20]% Strength <when fighting in [Foreign Land] tiles>", "Heal this unit by [-4] HP <upon ending a turn in a [Foreign Land] tile>"],
+    "Uniques": ["Unbuildable", "Cannot be purchased", "Can transform to [Worker] <in [Friendly Land] tiles>", "Never appears as a Barbarian unit", "[-20]% Strength <when fighting in [Foreign Land] tiles>", "[This Unit] heals [-4] HP <upon ending a turn in a [Foreign Land] tile>"],
     "attackSound": "throw"
   },
   {
@@ -31,7 +31,7 @@
     "unitType": "Militia",
     "movement": 2,
     "strength": 8,
-    "Uniques": ["Unbuildable", "Cannot be purchased", "Can transform to [Worker] <in [Friendly Land] tiles>", "Never appears as a Barbarian unit", "[-20]% Strength <when fighting in [Foreign Land] tiles>", "Heal this unit by [-4] HP <upon ending a turn in a [Foreign Land] tile>"],
+    "Uniques": ["Unbuildable", "Cannot be purchased", "Can transform to [Worker] <in [Friendly Land] tiles>", "Never appears as a Barbarian unit", "[-20]% Strength <when fighting in [Foreign Land] tiles>", "[This Unit] heals [-4] HP <upon ending a turn in a [Foreign Land] tile>"],
     "attackSound": "nonmetalhit"
   },
   {
@@ -39,7 +39,7 @@
     "unitType": "Militia",
     "movement": 2,
     "strength": 11,
-    "Uniques": ["Unbuildable", "Cannot be purchased", "Can transform to [Worker] <in [Friendly Land] tiles>", "Never appears as a Barbarian unit", "[-20]% Strength <when fighting in [Foreign Land] tiles>", "Heal this unit by [-4] HP <upon ending a turn in a [Foreign Land] tile>"],
+    "Uniques": ["Unbuildable", "Cannot be purchased", "Can transform to [Worker] <in [Friendly Land] tiles>", "Never appears as a Barbarian unit", "[-20]% Strength <when fighting in [Foreign Land] tiles>", "[This Unit] heals [-4] HP <upon ending a turn in a [Foreign Land] tile>"],
     "attackSound": "metalhit"
   },
   {
@@ -47,7 +47,7 @@
     "unitType": "Militia",
     "movement": 2,
     "strength": 15,
-    "Uniques": ["Unbuildable", "Cannot be purchased", "Can transform to [Worker] <in [Friendly Land] tiles>", "Never appears as a Barbarian unit", "[-20]% Strength <when fighting in [Foreign Land] tiles>", "Heal this unit by [-4] HP <upon ending a turn in a [Foreign Land] tile>"],
+    "Uniques": ["Unbuildable", "Cannot be purchased", "Can transform to [Worker] <in [Friendly Land] tiles>", "Never appears as a Barbarian unit", "[-20]% Strength <when fighting in [Foreign Land] tiles>", "[This Unit] heals [-4] HP <upon ending a turn in a [Foreign Land] tile>"],
     "attackSound": "metalhit"
   },
   {
@@ -55,7 +55,7 @@
     "unitType": "Militia",
     "movement": 2,
     "strength": 20,
-    "Uniques": ["Unbuildable", "Cannot be purchased", "Can transform to [Worker] <in [Friendly Land] tiles>", "Never appears as a Barbarian unit", "[-20]% Strength <when fighting in [Foreign Land] tiles>", "Heal this unit by [-4] HP <upon ending a turn in a [Foreign Land] tile>"],
+    "Uniques": ["Unbuildable", "Cannot be purchased", "Can transform to [Worker] <in [Friendly Land] tiles>", "Never appears as a Barbarian unit", "[-20]% Strength <when fighting in [Foreign Land] tiles>", "[This Unit] heals [-4] HP <upon ending a turn in a [Foreign Land] tile>"],
     "attackSound": "shot"
   },
   {
@@ -63,7 +63,7 @@
     "unitType": "Militia",
     "movement": 2,
     "strength": 26,
-    "Uniques": ["Unbuildable", "Cannot be purchased", "Can transform to [Worker] <in [Friendly Land] tiles>", "Never appears as a Barbarian unit", "[-20]% Strength <when fighting in [Foreign Land] tiles>", "Heal this unit by [-4] HP <upon ending a turn in a [Foreign Land] tile>"],
+    "Uniques": ["Unbuildable", "Cannot be purchased", "Can transform to [Worker] <in [Friendly Land] tiles>", "Never appears as a Barbarian unit", "[-20]% Strength <when fighting in [Foreign Land] tiles>", "[This Unit] heals [-4] HP <upon ending a turn in a [Foreign Land] tile>"],
     "attackSound": "shot"
   },
   {
@@ -71,7 +71,7 @@
     "unitType": "Militia",
     "movement": 2,
     "strength": 33,
-    "Uniques": ["Unbuildable", "Cannot be purchased", "Can transform to [Worker] <in [Friendly Land] tiles>", "Never appears as a Barbarian unit", "[-20]% Strength <when fighting in [Foreign Land] tiles>", "Heal this unit by [-4] HP <upon ending a turn in a [Foreign Land] tile>"],
+    "Uniques": ["Unbuildable", "Cannot be purchased", "Can transform to [Worker] <in [Friendly Land] tiles>", "Never appears as a Barbarian unit", "[-20]% Strength <when fighting in [Foreign Land] tiles>", "[This Unit] heals [-4] HP <upon ending a turn in a [Foreign Land] tile>"],
     "attackSound": "shot"
   },
   {
@@ -79,7 +79,7 @@
     "unitType": "Militia",
     "movement": 2,
     "strength": 41,
-    "Uniques": ["Unbuildable", "Cannot be purchased", "Can transform to [Worker] <in [Friendly Land] tiles>", "Never appears as a Barbarian unit", "[-20]% Strength <when fighting in [Foreign Land] tiles>", "Heal this unit by [-4] HP <upon ending a turn in a [Foreign Land] tile>"],
+    "Uniques": ["Unbuildable", "Cannot be purchased", "Can transform to [Worker] <in [Friendly Land] tiles>", "Never appears as a Barbarian unit", "[-20]% Strength <when fighting in [Foreign Land] tiles>", "[This Unit] heals [-4] HP <upon ending a turn in a [Foreign Land] tile>"],
     "attackSound": "shot"
   },
   {
@@ -87,7 +87,7 @@
     "unitType": "Militia",
     "movement": 2,
     "strength": 50,
-    "Uniques": ["Unbuildable", "Cannot be purchased", "Can transform to [Worker] <in [Friendly Land] tiles>", "Never appears as a Barbarian unit", "[-20]% Strength <when fighting in [Foreign Land] tiles>", "Heal this unit by [-4] HP <upon ending a turn in a [Foreign Land] tile>"],
+    "Uniques": ["Unbuildable", "Cannot be purchased", "Can transform to [Worker] <in [Friendly Land] tiles>", "Never appears as a Barbarian unit", "[-20]% Strength <when fighting in [Foreign Land] tiles>", "[This Unit] heals [-4] HP <upon ending a turn in a [Foreign Land] tile>"],
     "attackSound": "shot"
   }
 ]
