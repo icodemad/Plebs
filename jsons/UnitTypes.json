@@ -1,6 +1,7 @@
 [
-    {
-        "name": "Militia",
-        "movementType": "Land"
-    }
+  {
+    "name": "Militia",
+    "movementType": "Land"
+    // "ReplacementTextForUniques": "Can transform to [Worker] <in [Friendly Land] tiles>\nLoses 20% Strength to low Morale when fighting outside Friendly territory\nSuffers 4 HP damage from attrition outside Friendly territory",
+  }
 ]
